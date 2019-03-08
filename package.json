@@ -29,6 +29,6 @@
     "eth-json-rpc-middleware": "^3.1.7",
     "json-rpc-engine": "^3.8.0",
     "safe-event-emitter": "^1.0.1",
-    "web3": "^1.0.0-beta.36"
+    "web3": "1.0.0-beta.36"
   }
 }
