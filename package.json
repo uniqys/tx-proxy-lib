@@ -1,6 +1,6 @@
 {
   "name": "@uniqys/tx-proxy-lib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Uniqys TxProxy frontend Library",
   "author": "Bit Factory, Inc.",
   "license": "Apache-2.0",
