@@ -16,7 +16,7 @@ Check [document](https://tx-proxy.uniqys.net/docs/library.html)
 
 ## Install
 ```
-yarn add tx-proxy-lib
+yarn add @uniqys/tx-proxy-lib
 ```
 
 ## License
